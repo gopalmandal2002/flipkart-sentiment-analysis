@@ -1,6 +1,6 @@
 # Flipkart Sentiment Analysis 📊
-##OBJECTIVE
-A sentiment analysis project on Flipkart product reviews using Python NLP techniques and a Power BI dashboard.
+## OBJECTIVE
+-A sentiment analysis project on Flipkart product reviews using Python NLP techniques and a Power BI dashboard.
 
 ## 🔍 Overview
 - Analyzed 20,000+ reviews using TextBlob & VADER
