@@ -16,9 +16,8 @@ A sentiment analysis project on Flipkart product reviews using Python NLP techni
 - Power BI
 
 ## 📊 Dashboard Preview
-![<img width="1329" height="732" alt="Screenshot 2025-07-27 093024" src="https://github.com/user-attachments/assets/7466f33d-773f-44c6-8446-b4fbcc9bcb2d" />
-](dashboard_screenshot.png)
-
+![Dashboard Screenshot](<img width="1329" height="732" alt="Screenshot 2025-07-27 093024" src="https://github.com/user-attachments/assets/5587ed9d-3d44-4a03-9d11-f0a8fc09d366" />
+)
 ## 🔗 How to Use
 1. Open the notebook
 2. Run all cells
