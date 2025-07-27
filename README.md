@@ -14,7 +14,7 @@ A sentiment analysis project on Flipkart product reviews using Python NLP techni
 - Seaborn, Matplotlib
 - Power BI
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/sentimental_analysis.pdf)
 ## 🔗 How to Use
 1. Open the notebook
 2. Run all cells
