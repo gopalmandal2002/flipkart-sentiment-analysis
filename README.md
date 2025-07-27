@@ -7,6 +7,7 @@ A sentiment analysis project on Flipkart product reviews using Python NLP techni
 - Preprocessing: tokenization, lemmatization, stopword removal
 - Classification into Positive, Neutral, and Negative
 - Power BI dashboard with filters: Product, Rating, Sentiment
+  
 ##📝 Project Process: Flipkart Review Sentiment Analysis & Dashboard
 - 1. Data Collection
 Collected customer review data from Flipkart, including columns like Product_Name, Review, and Rating.
