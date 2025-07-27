@@ -7,14 +7,18 @@ A sentiment analysis project on Flipkart product reviews using Python NLP techni
 - Preprocessing: tokenization, lemmatization, stopword removal
 - Classification into Positive, Neutral, and Negative
 - Power BI dashboard with filters: Product, Rating, Sentiment
-
+## datasets
+<a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/flipkart.csv">Dataset</a>
+<a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/archive%20(2)%20(1).zip">Dataset</a>
+<a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/archive%20(2)%20(1).zip">Dataset</a>
 ## 🛠️ Tools & Libraries
 - Python, Pandas, NumPy
 - TextBlob, VADER
 - Seaborn, Matplotlib
 - Power BI
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/sentimental_analysis.pdf)
+<img width="1329" height="732" alt="deshboard (1)" src="https://github.com/user-attachments/assets/57701d40-25ea-44e4-8e20-29423cd239a9" />
+
 ## 🔗 How to Use
 1. Open the notebook
 2. Run all cells
