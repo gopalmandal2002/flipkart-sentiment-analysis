@@ -8,17 +8,17 @@ A sentiment analysis project on Flipkart product reviews using Python NLP techni
 - Classification into Positive, Neutral, and Negative
 - Power BI dashboard with filters: Product, Rating, Sentiment
   
-##📝 Project Process: Flipkart Review Sentiment Analysis & Dashboard
+## 📝 Project Process: Flipkart Review Sentiment Analysis & Dashboard
 - 1. Data Collection
-Collected customer review data from Flipkart, including columns like Product_Name, Review, and Rating.
+-Collected customer review data from Flipkart, including columns like Product_Name, Review, and Rating.
 -2. Data Preprocessing (Google Colab using Python)
-Removed missing values and duplicate reviews.
-Performed text cleaning:
-Lowercased all text
-Removed stopwords, punctuations, and special characters
-Applied stemming using NLTK's PorterStemmer
+-Removed missing values and duplicate reviews.
+-Performed text cleaning:
+-Lowercased all text
+-Removed stopwords, punctuations, and special characters
+-Applied stemming using NLTK's PorterStemmer
 -3. Sentiment Prediction
-Used TextBlob to calculate polarity:
+-Used TextBlob to calculate polarity:
 Polarity > 0 → "Positive"
 Polarity = 0 → "Neutral"
 Polarity < 0 → "Negative"
