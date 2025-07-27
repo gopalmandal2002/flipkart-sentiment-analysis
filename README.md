@@ -11,6 +11,7 @@
 ## 📝 Project Process: Flipkart Review Sentiment Analysis & Dashboard
 - 1. Data Collection
 -Collected customer review data from Flipkart, including columns like Product_Name, Review, and Rating.
+
 -2. Data Preprocessing (Google Colab using Python)
 -Removed missing values and duplicate reviews.
 -Performed text cleaning:
@@ -18,12 +19,14 @@
 -Removed stopwords, punctuations, and special characters
 -Applied stemming using NLTK's PorterStemmer
 -3. Sentiment Prediction
+
 -Used TextBlob to calculate polarity:
 Polarity > 0 → "Positive"
 Polarity = 0 → "Neutral"
 Polarity < 0 → "Negative"
 Stored the sentiment result in a new column: Predicted_Sentiment
 Saved the final DataFrame to a CSV: flipkart_sentiment_results.csv
+
 -4. Power BI Dashboard Creation
 Imported the flipkart_sentiment_results.csv file into Power BI.
 🔸 Created Key Visuals:
@@ -50,7 +53,9 @@ Background color-coded based on sentiment:
 
 ## datasets
 <a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/flipkart.csv">Dataset</a>
+
 <a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/archive%20(2)%20(1).zip">RAW DATASET</a>
+
 <a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/flipkart_sentiment_results%20(2).csv">RESULT</a>
 ## 🛠️ Tools & Libraries
 - Python, Pandas, NumPy
