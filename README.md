@@ -1,5 +1,5 @@
 # Flipkart Sentiment Analysis 📊
-
+##OBJECTIVE
 A sentiment analysis project on Flipkart product reviews using Python NLP techniques and a Power BI dashboard.
 
 ## 🔍 Overview
@@ -9,8 +9,8 @@ A sentiment analysis project on Flipkart product reviews using Python NLP techni
 - Power BI dashboard with filters: Product, Rating, Sentiment
 ## datasets
 <a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/flipkart.csv">Dataset</a>
-<a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/archive%20(2)%20(1).zip">Dataset</a>
-<a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/archive%20(2)%20(1).zip">Dataset</a>
+<a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/archive%20(2)%20(1).zip">RAW DATASET</a>
+<a href="https://github.com/gopalmandal2002/flipkart-sentiment-analysis/blob/main/flipkart_sentiment_results%20(2).csv">RESULT</a>
 ## 🛠️ Tools & Libraries
 - Python, Pandas, NumPy
 - TextBlob, VADER
