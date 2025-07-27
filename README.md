@@ -9,7 +9,7 @@
 - Power BI dashboard with filters: Product, Rating, Sentiment
   
 ## 📝 Project Process: Flipkart Review Sentiment Analysis & Dashboard
-- 1. Data Collection
+-1. Data Collection
 -Collected customer review data from Flipkart, including columns like Product_Name, Review, and Rating.
 
 -2. Data Preprocessing (Google Colab using Python)
@@ -18,8 +18,8 @@
 -Lowercased all text
 -Removed stopwords, punctuations, and special characters
 -Applied stemming using NLTK's PorterStemmer
--3. Sentiment Prediction
 
+-3. Sentiment Prediction
 -Used TextBlob to calculate polarity:
 Polarity > 0 → "Positive"
 Polarity = 0 → "Neutral"
